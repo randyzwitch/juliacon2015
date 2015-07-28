@@ -2,3 +2,5 @@
 Everyday Analytics and Visualization - JuliaCon 2015
 
 Presentation materials for JuliaCon 2015 Workshop
+
+This code is licensed under the MIT Expat license or Creative Commons CC-BY-4.0 license, whichever is least restrictive for your intended usage.
